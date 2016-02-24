@@ -3,6 +3,6 @@ build/
 out/
 *.iml
 *.swp
-
+.idea/
 # Ignore Gradle GUI config
 gradle-app.setting

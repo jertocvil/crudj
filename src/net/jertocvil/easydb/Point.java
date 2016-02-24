@@ -8,8 +8,9 @@ public class Point extends DBTable<Point> {
 
     public int x;
 
-    @ColumnName("col_y")
     public int y;
+
+    public int z;
 
     public String name;
 
